@@ -22,7 +22,7 @@ install_requires = [
     'impyla==0.13.8',
     'hdfs3',
     'teradata==15.10.0.20',
-    'protobuf==3.5.2.post1',
+    'protobuf==3.18.3',
     'sqlparse',
     'pyhive==0.2.1',
     'pysftp==0.2.9',
